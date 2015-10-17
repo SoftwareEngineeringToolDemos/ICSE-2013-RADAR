@@ -11,7 +11,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [Link to download the plugin]( http://www.lta.disco.unimib.it/downloads/eclipseUpdates/)
 * [A Video of the Tool](https://www.youtube.com/watch?v=DMGUgALG-yE)
 
-This repository was constructed by [Yashwanth Nallabothu](https://github.com/YashwanthAsh) and his team, under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+This repository was constructed by [Yashwanth Nallabothu](https://github.com/YashwanthAsh) and his team, under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Fabrizio Pastore and his colleagues for their help in establishing this repository.
 
 ## Attribution
 
