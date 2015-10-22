@@ -11,7 +11,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [Link to download the plugin]( http://www.lta.disco.unimib.it/downloads/eclipseUpdates/)
 * [A Video of the Tool](https://www.youtube.com/watch?v=DMGUgALG-yE)
 
-In this repository, for Refoqus you will find:
+In this repository, for RADAR you will find:
 * :x: Source code (not available)
 * :x: The original tool (not available)
 
