@@ -41,4 +41,4 @@ Used vagrant virtual box image of [Ubuntu 14.04 64-bit](https://atlas.hashicorp.
 
 [Tutorial to install java](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
 
-[Ubuntu 14.04 Virtual Box](https://atlas.hashicorp.com/boxcutter/boxes/ubuntu1404-desktop)3.
+[Ubuntu 14.04 Virtual Box](https://atlas.hashicorp.com/boxcutter/boxes/ubuntu1404-desktop)
