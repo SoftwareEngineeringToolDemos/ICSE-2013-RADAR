@@ -27,7 +27,7 @@ As part of the load process, the following is loaded in the VM (as part of the V
 1. Ubuntu Desktop 14.04
   * Default username: *vagrant*
   * Default password: *vagrant*
-2. Java 8
+2. Oracle Java 8
 3. build-essentials
 3. Eclipse IDE for C/C++ developers - Indigo SR2 3.7.2
 
