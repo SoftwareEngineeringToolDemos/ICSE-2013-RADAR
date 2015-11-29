@@ -1,0 +1,27 @@
+***********************************************
+Installation instructions for RADAR plugin
+***********************************************
+Pre requisites:
+Java JDK – I used Java 8 in this my demo
+g++
+Eclipse Indigo C/C++ IDE
+Steps:
+1.	Install Java JDK if it wasn't installed before.
+2.	Install g++ using "sudo apt-get install build-essential" if it wasn't installed before.
+3.	Download Eclipse Indigo IDE for C/C++.
+4.	Open Eclipse and click on Install new software option in Help
+Help -> Install new software -> Install new software window pops up
+5.	In the Install new software windows add RADAR update site by clicking on "Add..." button
+6.	In Add update site windows add "http://www.lta.disco.unimib.it/downloads/eclipseUpdates/" url and click on Add.
+7.	Select the RADAR update link you just added and this will pull available software in that location.
+8.	Select below softwares from the list of available softwares
+		AutomaticLogFileAnalysis
+		Editors
+		ProgramAnalysis
+9.	Once you selected the softwares click on next
+10.	You will get a confirmation page showing the list of softwares to be installed. Now click on next
+11.	You will get license agreement page of all the softwares about to be installed. Select “I accept …” and click on finish.
+12.	Plugin installation will take few seconds, during installation you will get a message asking you confirm installation of unsigned software. Click ok and then you will be asked to restart eclipse to complete the installation.
+13.	After restarting eclipse you can verify the installation by clicking on new option-> other and you will see Radar folder in the options.
+14.	You have successfully installed RADAR plugin in eclipse and now it is ready to use.
+

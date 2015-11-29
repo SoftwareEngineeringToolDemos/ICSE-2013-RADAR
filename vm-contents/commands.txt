@@ -1,0 +1,19 @@
+Commands to be run:
+
+Original Software:
+GDB_CONFIG=/home/vagrant/Desktop/workspace/faultAnalysis/BCT_DATA/checkv2/conf/files/scripts/originalSoftware.gdb.config.txt
+
+GDB="gdb -batch -silent -n -x $GDB_CONFIG --args"
+
+Executable: all passing cases
+$GDB ./WorkersMap testNoWorker testOneWorker testOneWorker_NoSalary testTwoWorkers testGetAverageSalary_many testGetAverageSalary_mix
+
+Modified software:
+GDB_CONFIG=/home/vagrant/Desktop/workspace/faultAnalysis/BCT_DATA/checkv2/conf/files/scripts/modifiedSoftware.gdb.config.txt
+
+GDB="gdb -batch -silent -n -x $GDB_CONFIG --args"
+
+5 passing cases
+$GDB ./WorkersMap-v2 testNoWorker testOneWorker testOneWorker_NoSalary testTwoWorkers testGetAverageSalary_many 
+1 failing case
+$GDB ./WorkersMap-v2 testGetAverageSalary_mix

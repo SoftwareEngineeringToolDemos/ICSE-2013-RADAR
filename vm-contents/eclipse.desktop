@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=C/C++ - Eclipse 
+Icon=eclipse.png
+Path=/home/vagrant/Desktop/eclipse
+Exec=/usr/bin/java -Dosgi.requiredJavaVersion=1.5 -XX:MaxPermSize=256m -Xms40m -Xmx384m -jar /home/vagrant/Desktop/eclipse//plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar -os linux -ws gtk -arch x86_64 -showsplash -launcher /home/vagrant/Desktop/eclipse/eclipse -name Eclipse --launcher.library /home/vagrant/Desktop/eclipse//plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.100.v20110505/eclipse_1407.so -startup /home/vagrant/Desktop/eclipse//plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar --launcher.overrideVmargs -exitdata 30000e -product org.eclipse.epp.package.cpp.product -vm /usr/bin/java -vmargs -Dosgi.requiredJavaVersion=1.5 -XX:MaxPermSize=256m -Xms40m -Xmx384m -jar /home/vagrant/Desktop/eclipse//plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar
+StartupNotify=false
+StartupWMClass=Eclipse
+OnlyShowIn=Unity;
+X-UnityGenerated=true
