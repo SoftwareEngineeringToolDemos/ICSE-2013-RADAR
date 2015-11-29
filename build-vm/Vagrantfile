@@ -28,7 +28,7 @@ Vagrant.configure(2) do |config|
 	#Changing current directory to Desktop
 	cd Desktop
 	#Downloading eclipse with preinstalled plugin and workspace from google drive shared folder
-	wget "https://googledrive.com/host/0B-kwoOMu6poEXzNGbnI3Mk5VY1E/eclipse.tar.gz"
+	wget "https://googledrive.com/host/0B-kwoOMu6poEXzNGbnI3Mk5VY1E/radar-eclipse.tar.gz"
 	#extracting the downloaded eclipse tar file
     tar zxvf radar-eclipse.tar.gz
 	#Deleting the eclispse tar file after extraction
